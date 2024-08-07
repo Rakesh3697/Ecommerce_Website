@@ -22,13 +22,13 @@ To install **Ladshop**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/Rakesh3697/Ecommerce_Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/Rakesh3697/Ecommerce_Website.git
 ```
 
 ## Contact
